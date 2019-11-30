@@ -110,11 +110,10 @@ footer a{
     color: black;
     background-color: transparent;
     padding: .5em;
-    text-decoration: underline;
   }
   li a:hover{
     background-color: aquamarine;
-    color: brown;
+    text-decoration: underline;
   }
   footer{
     grid-column: 1/4;
